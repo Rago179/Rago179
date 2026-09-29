@@ -1,6 +1,6 @@
 - Hi, I’m  Omar Sanad @Rago179
+- AI Engineer @Planna Ltd
 - I’m interested in  Artificial Intelligence , Software Engineering.
-- I’m am a Computer Science and AI BSc with a First Class Honours from Swansea University
 - I’m open to any collaboratory projects to learn new skills and team work.
 - LinkedIn: https://www.linkedin.com/in/omar-sanad-19045b1a4/
 <!---
